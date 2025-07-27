@@ -12,3 +12,6 @@ Guided Exercises: Includes breathing techniques, journaling prompts, and CBT-ins
 Resource Suggestions: Recommends articles, hotlines, and wellness practices based on user inputs.
 
 Privacy-Focused: No personal data is stored; conversations remain confidential.
+
+### This is the link to my prototype:
+https://codepen.io/Serge-Mupenzi/pen/EaVgGPr?editors=1000
